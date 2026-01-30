@@ -1,0 +1,64 @@
+ *{
+        margin: 0;
+        padding: 0;
+    }
+    body{background-color: rgba(255, 123, 0, 0.749);}
+    
+
+     h2{text-align: center;}
+     h3{text-align: center;}
+     img{display: block;
+     margin: auto;}
+     .div{display: block;
+     margin-right: 700px;
+    font-family: Saira;}
+     .fiv{display: block;
+    margin: auto;
+text-align: center;
+
+background-color: aliceblue;
+ font-family: Saira
+       
+}
+.skilldiv{background-color: aliceblue;}
+
+.CM{background-color: aquamarine;
+height: 30px;
+width: 160px;}
+
+.sun{display: block;
+margin-left: 800px;}
+
+.cl{display: block;
+margin-left: 400px;}
+
+.co{display: block;
+margin-right: 600px;}
+
+
+.left1{
+    float: left;
+    margin-left: 250px;
+    margin-top: 30px;
+    text-align: justify;
+}
+.right1{
+    float: right;
+    margin-right: 300px;
+
+}
+
+.left{
+    float: left;
+    margin-left: 350px;
+    height: auto;
+}
+.right{
+    float: right;
+    margin-right: 250px;
+    text-align: justify;
+    height: auto;
+}
+.contact{
+    /* margin-bottom: px; */
+}
